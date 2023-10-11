@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec5389b0cbfbfdd7",
+        "id": "585fb47b30246d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "f93e2a0524db3cbd",
+            "id": "069b4df730ad789e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Web-P1/6.- picobrowser.md",
+                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Web-P1/6.- picobrowser.md",
+                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Web-P1/6.- picobrowser.md",
+                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Web-P1/6.- picobrowser.md"
+                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md"
               }
             }
           },
@@ -156,10 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f93e2a0524db3cbd",
+  "active": "069b4df730ad789e",
   "lastOpenFiles": [
-    "PicoCTF/Retos Web-P1/5- client-side-again.md",
+    "Concurso/An intriguing file.md",
+    "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
+    "Concurso",
+    "PicoCTF/Retos Web-P2/3.- Irish-Name-Repo 3.md",
+    "PicoCTF/Retos Web-P2/2.- Irish-Name-Repo 2.md",
+    "PicoCTF/Retos Web-P2/1.- Irish-Name-Repo 1.md",
     "PicoCTF/Retos Web-P1/6.- picobrowser.md",
+    "PicoCTF/Retos Web-P2",
+    "PicoCTF/Untitled.md",
+    "PicoCTF/Retos Web-P1/5- client-side-again.md",
     "PicoCTF/Retos Web-P1/4.- where are the robots.md",
     "PicoCTF/Retos Web-P1/3.- logon.md",
     "PicoCTF/Retos Web-P1/2.- dont-use-client-side.md",
@@ -182,12 +190,6 @@
     "Primer Examen Parcial/Parte 1/5.- Tab, Tab, Attack.md",
     "Primer Examen Parcial/Parte 1/6.- Magikarp Ground Mission.md",
     "Primer Examen Parcial/Parte 1/7.- Lets Warm Up.md",
-    "Primer Examen Parcial/Parte 1/8.- Warmed UP.md",
-    "Primer Examen Parcial/Parte 2/7.- strings it.md",
-    "retos-bandit/Level 9 - Level 10.md",
-    "retos-bandit/Level 8 - Level 9.md",
-    "retos-bandit/Level 7 - Level 8.md",
-    "retos-bandit/Level 6 - Level 7.md",
     "Primer Examen Parcial/Parte 2",
     "Primer Examen Parcial/Parte 1",
     "Primer Examen Parcial",
