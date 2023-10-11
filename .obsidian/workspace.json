@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos Web-P3/3.- Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos Web-P3/3.- Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos Web-P3/3.- Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md"
+                "file": "PicoCTF/Retos Web-P3/3.- Scavenger Hunt.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "069b4df730ad789e",
   "lastOpenFiles": [
-    "Concurso/An intriguing file.md",
+    "PicoCTF/Retos Web-P3/2.- Cookies.md",
+    "PicoCTF/Retos Web-P3/3.- Scavenger Hunt.md",
+    "PicoCTF/Retos Web-P3/1.- GET aHEAD.md",
     "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
+    "PicoCTF/Retos Web-P3",
+    "Concurso/An intriguing file.md",
     "Concurso",
     "PicoCTF/Retos Web-P2/3.- Irish-Name-Repo 3.md",
     "PicoCTF/Retos Web-P2/2.- Irish-Name-Repo 2.md",
@@ -187,13 +191,9 @@
     "Primer Examen Parcial/Parte 3",
     "Primer Examen Parcial/Parte 1/3.- Nice netcat.md",
     "Primer Examen Parcial/Parte 1/4.- Static ain't always noise.md",
-    "Primer Examen Parcial/Parte 1/5.- Tab, Tab, Attack.md",
-    "Primer Examen Parcial/Parte 1/6.- Magikarp Ground Mission.md",
-    "Primer Examen Parcial/Parte 1/7.- Lets Warm Up.md",
     "Primer Examen Parcial/Parte 2",
     "Primer Examen Parcial/Parte 1",
     "Primer Examen Parcial",
-    "retos-bandit",
     "Untitled.canvas"
   ]
 }
