@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
+                "file": "PicoCTF/Retos Forensic/Retos Forensic-P2/4.- WhithePages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
+                "file": "PicoCTF/Retos Forensic/Retos Forensic-P2/4.- WhithePages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
+                "file": "PicoCTF/Retos Forensic/Retos Forensic-P2/4.- WhithePages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md"
+                "file": "PicoCTF/Retos Forensic/Retos Forensic-P2/4.- WhithePages.md"
               }
             }
           },
@@ -158,9 +158,15 @@
   },
   "active": "bc1962debdb72ecc",
   "lastOpenFiles": [
+    "PicoCTF/Retos Forensic/Retos Forensic-P2/5.- Shark on wire 2.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P2/4.- WhithePages.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P2/3.- M00nwalk.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P2/2.- like 1000.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P2/1.- c0rrupt.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
+    "PicoCTF/Retos Forensic/Retos Forensic-P2",
     "PicoCTF/Retos Forensic/Retos Forensic-P1/3.- Shark on wire 1.md",
     "PicoCTF/Retos Forensic/Retos Forensic-P1/4.- So Meta.md",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
     "PicoCTF/Retos Forensic/Retos Forensic-P1/2.- Extensions.md",
     "flag.png",
     "PicoCTF/Retos Forensic/Retos Forensic-P1/1.- Glory of the Garden.md",
@@ -188,13 +194,7 @@
     "PicoCTF/Retos Web",
     "PicoCTF/Nuevo acceso directo.lnk",
     "PicoCTF/Retos Web-P3/2.- Cookies.md",
-    "PicoCTF/Retos Web-P3/1.- GET aHEAD.md",
-    "PicoCTF/Retos Web-P2/4.- JaWT Scratchpad.md",
     "PicoCTF/Retos Web-P3",
-    "Concurso/An intriguing file.md",
-    "Concurso",
-    "PicoCTF/Retos Web-P2/3.- Irish-Name-Repo 3.md",
-    "PicoCTF/Retos Web-P2/2.- Irish-Name-Repo 2.md",
     "Untitled.canvas"
   ]
 }
