@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32eace2a35c23357",
+        "id": "6ba24b2cde792a80",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1962debdb72ecc",
+            "id": "160b3185c81d7a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2/7- St3g0.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2/7- St3g0.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2/7- St3g0.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Examen Parcial/Parte 2/7- St3g0.md"
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md"
               }
             }
           },
@@ -156,12 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc1962debdb72ecc",
+  "active": "160b3185c81d7a7a",
   "lastOpenFiles": [
+    "1- vault-door-training.md",
+    "PicoCTF/Retos Crypto/Retos Crypto-P1/Untitled.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1",
+    "PicoCTF/Retos Reversing/Untitled.md",
+    "PicoCTF/Retos Reversing/Untitled 1.md",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3/5.- ReadMyCert.md",
+    "PicoCTF/Retos Reversing",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3/4.- Pixelated.md",
+    "Pasted image 20231106113434.png",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3/3.- Hide ToSee.md",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3/2.- basic-mod1.md",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3/1.- Mind your Ps and Qs.md",
+    "PicoCTF/Retos Crypto/Retos Crypto-P3",
+    "Segundo Examen Parcial/Parte 2/7- St3g0.md",
     "Segundo Examen Parcial/Parte 2/4.- Lookey here.md",
     "Segundo Examen Parcial/Parte 2/5.- Packets Primer.md",
     "Segundo Examen Parcial/Parte 2/6.- Redaction gone wrong.md",
-    "Segundo Examen Parcial/Parte 2/7- St3g0.md",
     "Segundo Examen Parcial/Parte 2/3.- Enhance!.md",
     "Segundo Examen Parcial/Parte 2/2.- Wireshark doo dooo do doo....md",
     "Segundo Examen Parcial/Parte 2/1.- information.md",
@@ -174,16 +188,6 @@
     "PicoCTF/Retos Web/Retos Web-P2/4.- JaWT Scratchpad.md",
     "PicoCTF/Retos Web/Retos Web-P2/3.- Irish-Name-Repo 3.md",
     "PicoCTF/Retos Web/Retos Web-P2/2.- Irish-Name-Repo 2.md",
-    "PicoCTF/Retos Web/Retos Web-P2/1.- Irish-Name-Repo 1.md",
-    "PicoCTF/Retos Web/Retos Web-P1/6.- picobrowser.md",
-    "PicoCTF/Retos Web/Retos Web-P1/5- client-side-again.md",
-    "PicoCTF/Retos Web/Retos Web-P1/4.- where are the robots.md",
-    "PicoCTF/Retos Web/Retos Web-P1/3.- logon.md",
-    "PicoCTF/Retos Web/Retos Web-P1/2.- dont-use-client-side.md",
-    "PicoCTF/Retos Web/Retos Web-P1/1.- Insp3ct0r.md",
-    "Primer Examen Parcial/Parte 1/4.- Static ain't always noise.md",
-    "Primer Examen Parcial/Parte 1/3.- Nice netcat.md",
-    "Primer Examen Parcial/Parte 1/2.- Wave a flag.md",
     "flag.png",
     "Segundo Examen Parcial/Parte 2",
     "Segundo Examen Parcial/Parte 1",
@@ -193,9 +197,6 @@
     "PicoCTF/Retos Crypto",
     "flag_tunnel_vision.png",
     "PicoCTF/Retos Forensic/Retos Forensic-P3",
-    "PicoCTF/Retos Forensic/Retos Forensic-P2",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1",
-    "PicoCTF/Retos Forensic",
     "Untitled.canvas"
   ]
 }
