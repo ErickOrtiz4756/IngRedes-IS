@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md"
+                "file": "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md"
               }
             }
           },
@@ -158,9 +158,17 @@
   },
   "active": "160b3185c81d7a7a",
   "lastOpenFiles": [
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/4.- vault-door-4.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/3.- vault-door-3.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/2.- vault-door-1.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P2/3.- asm3.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P2/2.- asm2.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P2/1.- asm1.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P2",
     "1- vault-door-training.md",
     "PicoCTF/Retos Crypto/Retos Crypto-P1/Untitled.md",
-    "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1",
     "PicoCTF/Retos Reversing/Untitled.md",
     "PicoCTF/Retos Reversing/Untitled 1.md",
@@ -181,13 +189,6 @@
     "Segundo Examen Parcial/Parte 2/1.- information.md",
     "PicoCTF/Retos Forensic/Retos Forensic-P2/1.- c0rrupt.md",
     "PicoCTF/Retos Forensic/Retos Forensic-P1/5.- What Lies Within.md",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1/4.- So Meta.md",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1/3.- Shark on wire 1.md",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1/2.- Extensions.md",
-    "PicoCTF/Retos Forensic/Retos Forensic-P1/1.- Glory of the Garden.md",
-    "PicoCTF/Retos Web/Retos Web-P2/4.- JaWT Scratchpad.md",
-    "PicoCTF/Retos Web/Retos Web-P2/3.- Irish-Name-Repo 3.md",
-    "PicoCTF/Retos Web/Retos Web-P2/2.- Irish-Name-Repo 2.md",
     "flag.png",
     "Segundo Examen Parcial/Parte 2",
     "Segundo Examen Parcial/Parte 1",
@@ -196,7 +197,6 @@
     "PicoCTF/Retos Crypto/Retos Crypto-P1",
     "PicoCTF/Retos Crypto",
     "flag_tunnel_vision.png",
-    "PicoCTF/Retos Forensic/Retos Forensic-P3",
     "Untitled.canvas"
   ]
 }
