@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md",
+                "file": "Tercer Examen Parcial/Parte 2/7.- GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md",
+                "file": "Tercer Examen Parcial/Parte 2/7.- GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md",
+                "file": "Tercer Examen Parcial/Parte 2/7.- GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md"
+                "file": "Tercer Examen Parcial/Parte 2/7.- GDB baby step 2.md"
               }
             }
           },
@@ -158,44 +158,46 @@
   },
   "active": "160b3185c81d7a7a",
   "lastOpenFiles": [
+    "Tercer Examen Parcial/Parte 2/6.- GDB baby step 1.md",
+    "Tercer Examen Parcial/Parte 2/7.- GDB baby step 2.md",
+    "Tercer Examen Parcial/Parte 2/5.- Bit-O-Asm-4.md",
+    "Tercer Examen Parcial/Parte 2/4.- Bit-O-Asm-3.md",
+    "Tercer Examen Parcial/Parte 2/3.- Bit-O-Asm-2.md",
+    "Tercer Examen Parcial/Parte 2/2.- Bit-O-Asm-1.md",
+    "Tercer Examen Parcial/Parte 2/1.- ASCII FTW.md",
+    "Tercer Examen Parcial/Parte 1/5.- SRA.md",
+    "Tercer Examen Parcial/Parte 1/4.- Mr-Worldwide.md",
+    "Tercer Examen Parcial/Parte 1/3.- Flags.md",
+    "Pasted image 20231122170025.png",
+    "Pasted image 20231122165901.png",
+    "Tercer Examen Parcial/Parte 1/2.- Vigenere.md",
+    "Tercer Examen Parcial/Parte 1/1.- transposition-trial.md",
+    "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
+    "Tercer Examen Parcial/Parte 2",
+    "Tercer Examen Parcial/Parte 1",
+    "1- vault-door-training.md",
+    "Tercer Examen Parcial",
+    "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md",
     "PicoCTF/Retos Reversing/Retos Reversing-p3/3.- reverse_cipher.md",
     "PicoCTF/Retos Reversing/Retos Reversing-p3/1.- GDB Test Drive.md",
     "PicoCTF/Retos Reversing/Retos Reversing-p3/2.- Safe Opener 2.md",
-    "PicoCTF/Retos Reversing/Retos Reversing-p3/4.- Need For Speed.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1/5.- vault-door-5.md",
     "PicoCTF/Retos Reversing/Retos Reversing-p3",
     "PicoCTF/Retos Reversing/Untitled.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1/4.- vault-door-4.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1/3.- vault-door-3.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1/2.- vault-door-1.md",
-    "PicoCTF/Retos Reversing/Retos Reversing-P1/1.- vault-door-training.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P2/3.- asm3.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P2/2.- asm2.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P2/1.- asm1.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P2",
-    "1- vault-door-training.md",
-    "PicoCTF/Retos Crypto/Retos Crypto-P1/Untitled.md",
     "PicoCTF/Retos Reversing/Retos Reversing-P1",
-    "PicoCTF/Retos Reversing/Untitled 1.md",
-    "PicoCTF/Retos Crypto/Retos Crypto-P3/5.- ReadMyCert.md",
     "PicoCTF/Retos Reversing",
-    "PicoCTF/Retos Crypto/Retos Crypto-P3/4.- Pixelated.md",
     "Pasted image 20231106113434.png",
-    "PicoCTF/Retos Crypto/Retos Crypto-P3/3.- Hide ToSee.md",
-    "PicoCTF/Retos Crypto/Retos Crypto-P3/2.- basic-mod1.md",
-    "PicoCTF/Retos Crypto/Retos Crypto-P3/1.- Mind your Ps and Qs.md",
     "PicoCTF/Retos Crypto/Retos Crypto-P3",
-    "Segundo Examen Parcial/Parte 2/7- St3g0.md",
-    "Segundo Examen Parcial/Parte 2/4.- Lookey here.md",
-    "Segundo Examen Parcial/Parte 2/5.- Packets Primer.md",
-    "Segundo Examen Parcial/Parte 2/6.- Redaction gone wrong.md",
-    "Segundo Examen Parcial/Parte 2/3.- Enhance!.md",
     "flag.png",
     "Segundo Examen Parcial/Parte 2",
     "Segundo Examen Parcial/Parte 1",
-    "Segundo Examen Parcial",
-    "PicoCTF/Retos Crypto/Retos Crypto-P2",
-    "PicoCTF/Retos Crypto/Retos Crypto-P1",
     "flag_tunnel_vision.png",
     "Untitled.canvas"
   ]
